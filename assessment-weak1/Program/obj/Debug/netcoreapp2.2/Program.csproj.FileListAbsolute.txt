@@ -1,0 +1,11 @@
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\bin\Debug\netcoreapp2.2\Program.deps.json
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\bin\Debug\netcoreapp2.2\Program.runtimeconfig.json
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\bin\Debug\netcoreapp2.2\Program.runtimeconfig.dev.json
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\bin\Debug\netcoreapp2.2\Program.dll
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\bin\Debug\netcoreapp2.2\Program.pdb
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\obj\Debug\netcoreapp2.2\Program.csprojAssemblyReference.cache
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\obj\Debug\netcoreapp2.2\Program.csproj.CoreCompileInputs.cache
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\obj\Debug\netcoreapp2.2\Program.AssemblyInfoInputs.cache
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\obj\Debug\netcoreapp2.2\Program.AssemblyInfo.cs
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\obj\Debug\netcoreapp2.2\Program.dll
+C:\revature\priya-code\priya-code\priya-code\assessment-weak1\program\obj\Debug\netcoreapp2.2\Program.pdb

@@ -1,0 +1,3 @@
+git status
+shows the difference between index file and working tree
+git add .
